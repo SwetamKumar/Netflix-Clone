@@ -25,10 +25,7 @@ This is a **frontend-only project** with no backend, database, or authentication
 
 🚀 **Deployed using GitHub Pages:**  
 
-
-> Replace the link with your actual GitHub Pages / Netlify / Vercel URL.
-
-
+https://swetamkumar.github.io/Netflix-Clone/
 
 ## ✨ Features
 
@@ -73,15 +70,7 @@ No setup required. Follow these steps:
     OR
    Use Live Server (VS Code extension) for a better experience
    ✅ Works in all modern browsers.
-## 🖼️ Screenshots
-
-📸 Add your UI screenshots here
-
-- `homepage-desktop.png` – Desktop view of the homepage  
-- `homepage-mobile.png` – Mobile responsive layout  
-- `movie-row-hover.png` – Hover effects on movie cards  
-
-
+ 
 ## 🚀 Future Enhancements
 
 - 🎬 Integrate real movie data using an external API (TMDB)
